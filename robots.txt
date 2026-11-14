@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ladiesman778.github.io/Doom/sitemap.xml
